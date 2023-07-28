@@ -88,9 +88,9 @@ puts states[:Pennsylvania]
 puts states[1]
 =end
 #------------------------------------------------------------------------------------------------Methods
-#=begin
+=begin
 def sayhi(name) 		#defines method, parameters in parenthesis
 	puts ("Hello "+name)
 end						#ends the method
 sayhi("Anthony")		#executes the method, parameters passed in parenthesis
-#=end
+=end

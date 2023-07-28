@@ -1,0 +1,7 @@
+NOTES----------------------------------------------------------------------------------------------------------------------
+git init - initializes an empty git repository
+git remote add origin [LINK] - appears to connect repository to whatever [LINK] is
+git add -A - appears to "add all"
+git commit -m "[MESSAGE]" - appears to commit to master, with [MESSAGE] being a message from the user
+git push -u origin master - appears to have pushed something to the master?
+DEFINITIONS----------------------------------------------------------------------------------------------------------------
