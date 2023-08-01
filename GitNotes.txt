@@ -5,4 +5,5 @@ git add -A - appears to "add all"
 git commit -m "[MESSAGE]" - appears to commit to master, with [MESSAGE] being a message from the user
 git push -u origin master - appears to have pushed something to the master?
 git status - give status report
+git reset --hard [CODE] - resets computer repository to whatever [CODE] corresponds to in github
 DEFINITIONS----------------------------------------------------------------------------------------------------------------
