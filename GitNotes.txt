@@ -6,4 +6,6 @@ git commit -m "[MESSAGE]" - appears to commit to master, with [MESSAGE] being a 
 git push -u origin master - appears to have pushed something to the master?
 git status - give status report
 git reset --hard [CODE] - resets computer repository to whatever [CODE] corresponds to in github
+git pull - appears to pull from github master branch or something like that
+git checkout -b [NAME] - creates a branch with name [NAME]
 DEFINITIONS----------------------------------------------------------------------------------------------------------------
