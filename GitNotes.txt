@@ -8,4 +8,5 @@ git status - give status report
 git reset --hard [CODE] - resets computer repository to whatever [CODE] corresponds to in github
 git pull - appears to pull from github master branch or something like that
 git checkout -b [NAME] - creates a branch with name [NAME]
+git checkout [NAME OF BRANCH] - appears to take you to said [NAME OF BRANCH]
 DEFINITIONS----------------------------------------------------------------------------------------------------------------
